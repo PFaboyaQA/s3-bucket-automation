@@ -1,0 +1,9 @@
+hash*
+*.txt
+chunk*
+.ssh*
+.bash*
+.aws*
+.profile
+.viminfo
+
